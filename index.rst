@@ -71,7 +71,20 @@ Indices and tables
    guides/WAF
    guides/红蓝对抗场景下的二三事
    guides/BUG BOUNTY HUNTING
-   
+   guides/PowerView：一个可以帮助你躲避检测的内网信息收集脚本
+   guides/远控免杀从入门到实践之白名单（113个）总结篇
+   guides/SOC日志可视化工具：SOC Sankey Generator
+   guides/宿主机利用在虚拟机中建立的VPN加密隧道连接内网
+   guides/记一次域控服务器应急
+   guides/NSA披露Web Shell漏洞列表，警惕黑客部署后门
+   guides/shuffleDNS：一款基于主动爆破的子域名枚举工具
+   guides/实战中如何绕过杀软用mimikatz获取账号密码
+   guides/Xencrypt：一款基于PowerShell脚本实现的反病毒绕过工具
+   guides/Lsassy：如何远程从lsaas中提取用户凭证
+   guides/SPN服务主体名称发现详解
+   guides/域渗透——DNS记录的获取
+   guides/Ntlm Encrypt & Decrypt
+   guides/Pupy Python远控的安装与使用
 
 .. toctree::
    :maxdepth: 2
